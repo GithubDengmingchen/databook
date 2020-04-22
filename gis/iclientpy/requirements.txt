@@ -1,6 +1,6 @@
 coverage==4.4.2
 sure==1.4.7
-requests==2.18.4
+requests==2.20.0
 httpretty==0.8.14
 typing==3.6.2
 pandas==0.20.3
